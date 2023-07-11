@@ -1,0 +1,1 @@
+KERNEL=="ttyACM*", ATTRS{idVendor}=="2e88", ATTRS{idProduct}=="4603", MODE:="0777", SYMLINK+="dmbot_usb2can"
